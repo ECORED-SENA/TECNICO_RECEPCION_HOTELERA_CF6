@@ -31,22 +31,22 @@
             .col-lg-10
               ul.lista-ul--color
                 li 
-                  i.lista-ul__vineta
+                  i.fas.fa-check
                   | Inscribirse en el Registro Nacional de Turismo.
                 li
-                  i.lista-ul__vineta
+                  i.fas.fa-check
                   | Actualizar anualmente los datos de su inscripción en el Registro Nacional de Turismo, entre el 1 de enero y el 31 de marzo de cada año.
                 li 
-                  i.lista-ul__vineta
+                  i.fas.fa-check
                   | El número que corresponda al Registro Nacional de Turismo deberá ser incluido en toda publicidad del prestador de servicios turísticos.
                 li 
-                  i.lista-ul__vineta
+                  i.fas.fa-check
                   | Enunciar los precios, calidad y cobertura del servicio ofrecido en las pautas publicitarias de estos.
                 li 
-                  i.lista-ul__vineta
+                  i.fas.fa-check
                   | Suministrar la información que le sea requerida por las autoridades de turismo.
                 li 
-                  i.lista-ul__vineta
+                  i.fas.fa-check
                   | Dar cumplimiento a las normas sobre conservación del medio ambiente, tanto en el desarrollo de proyectos turísticos como en la prestación de sus servicios.
     .separador
     br

@@ -35,85 +35,85 @@
             .col-lg-5
               ul.lista-ul--color.zebra
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Número o nombre de la habitación.
                 li
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Tipo de identificación.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Número de identificación.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Nombre (s), apellido, segundo apellido o de casada.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Fecha de nacimiento.
                 li
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Género.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Nacionalidad.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Principal motivo del viaje.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Categoría visa o permiso de ingreso.
                 li
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Número de visa.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Fecha expedición visa.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Vencimiento visa.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Profesión.
               
             .col-lg-5
               ul.lista-ul--color.zebra
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Ocupación u oficio.
                 li
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | País de residencia.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Departamento/estado/provincia de residencia.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Ciudad de residencia.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | País de procedencia.
                 li
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Departamento/estado/provincia de procedencia.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Ciudad de procedencia.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | País de destino.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Departamento/estado/provincia de destino.
                 li
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Ciudad de destino.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Fecha de entrada (check-in).
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Fecha de salida (check-out).
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check-circle
                   | Número de acompañantes.
     br
     br
