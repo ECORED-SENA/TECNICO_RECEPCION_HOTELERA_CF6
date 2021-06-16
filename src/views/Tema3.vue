@@ -134,7 +134,7 @@ export default {
       },
       {
         titulo: 'Cédula de ciudadanía amarilla hologramas',
-        imagen: require('@/assets/curso/t3-i9.svg'),
+        imagen: require('@/assets/curso/t3-i9-0.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {

@@ -99,9 +99,50 @@
                 .col.mb-3.mb-sm-0
                   p Que le sea entregada la documentación que demuestre la autenticidad del contrato de prestación de servicios, indicando términos y condiciones de los servicios ofrecidos.
           
+        .tarjeta.tarjeta-light-blue.p-3.mb-3 
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img.h80(src="@/assets/curso/t2-i8.svg", alt='Icono decorativo')
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p Se debe garantizar a los turistas y huéspedes del establecimiento de alojamiento el derecho a la intimidad, la tranquilidad y la seguridad.
 
+        .tarjeta.tarjeta-light-blue.p-3.mb-3 
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img.h80(src="@/assets/curso/t2-i9.svg", alt='Icono decorativo')
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p Se debe garantizar a los turistas y huéspedes el derecho al libre acceso a las instalaciones del alojamiento y los servicios que ofrece.
 
+        .tarjeta.tarjeta-light-blue.p-3.mb-3 
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img.h80(src="@/assets/curso/t2-i10.svg", alt='Icono decorativo')
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p Están obligados a pagar el precio de los servicios contratados, conforme a la tarifa previamente pactada, en el momento del check-out, donde les es presentada la factura para el pago correspondiente a los servicios recibidos.
+
+        .tarjeta.tarjeta-light-blue.p-3.mb-3 
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img.h80(src="@/assets/curso/t2-i11.svg", alt='Icono decorativo')
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p Derecho a presentar peticiones, quejas, reclamaciones, sugerencias, felicitaciones y denuncias (PQRSFD) y el derecho a obtener respuesta por parte del establecimiento hotelero, en los plazos establecidos por la ley.
     
+        .tarjeta.tarjeta-light-blue.p-3.mb-3 
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img.h80(src="@/assets/curso/t2-i12.svg", alt='Icono decorativo')
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p Cuando el establecimiento de alojamiento incurra en el incumplimiento total o parcial de los servicios ofrecidos, el huésped tiene derecho a recibir otro servicio similar o de la misma calidad, o el reembolso o compensación por el servicio incumplido
     
     
 
