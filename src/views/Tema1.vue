@@ -15,7 +15,7 @@
           | (ver documento anexo). De acuerdo con la normatividad colombiana, los establecimientos de alojamiento y hospedaje, excluidos los establecimientos que prestan servicios de alojamiento por horas, deberán diligenciar, por cada huésped, la información solicitada en la Tarjeta de Registro Hotelero (Ministerio de Comercio, 2016).
         .row
           .col-lg-8
-              a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo-1-archivoDI_CF06_1_Ley_300_de_1996.pdf')" target="_blank")
+              a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo-1_1_Ley_300_de_1996.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
@@ -131,7 +131,7 @@
           p.mb-3 Por la cual se modifica la Ley 300 De 1996 - Ley General de Turismo, la Ley 1101 de 2006 y se dictan otras disposiciones". Ver documento anexo.
           .row
             .col-lg-6
-              a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo-2-archivoDI_CF06_1-1-1_Ley_1558_de_2012.pdf')" target="_blank")
+              a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo2_1-1-1_Ley_1558_de_2012.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
@@ -161,7 +161,7 @@
             p.mb-3 Decreto Único Reglamentario del Sector Comercio, Industria y Turismo, estableció los requisitos de la Tarjeta de Registro Hotelero que deben diligenciar los propietarios o administradores de los edificios, conjuntos residenciales y demás inmuebles destinados, en todo o en parte, a la prestación permanente u ocasional de servicios de vivienda turística. Ver documento anexo.
             .row
               .col-lg-6
-                a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo3-archivoDI_CF06_1-1-2_ Decreto1074_de_2015.pdf')" target="_blank")
+                a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo3_1-1-2_ Decreto1074_de_2015.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
@@ -251,7 +251,7 @@
             p.mb-4 Por medio del cual se reglamenta la prestación del servicio de alojamiento turístico y se modifican la Sección 12 del Capítulo 4 del Título 4 de la Parte 2 del Libro 2 y el parágrafo del artículo 2.2.4.7.2. del Decreto 1074 de 2015, Decreto Único Reglamentario del Sector Comercio, Industria y Turismo. Ver documento anexo.
             .row
               .col-lg-6
-                a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo4-archivoDI_CF06_1-1-5_ Decreto_2119_de_2018.pdf')" target="_blank")
+                a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo4_1-1-5_ Decreto_2119_de_2018.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
@@ -301,6 +301,24 @@
           .col-lg-8
             p.mb-3 Existen otras normas que se deberá conocer y tener en cuenta al momento de efectuar un registro hotelero. Hablamos específicamente de las leyes 679 del 3 de agosto de 2001 y Ley 1336 de 2009, mediante la cual se dictan disposiciones para prevenir y contrarrestar la explotación, la pornografía y el turismo sexual con menores de edad. Ver documento anexo.
             p.mb-3 Ley 985 de agosto 26 de 2005, por medio de la cual se adoptan medidas contra la trata de personas y normas para la atención y protección de las víctimas de esta. Ver documento anexo.
+            .row
+              .col-lg-6
+                a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo5_1-1-6_Ley_679_de_2001.pdf')" target="_blank")
+                  .anexo__icono
+                    img(src="@/assets/template/icono-pdf.svg")
+                  .anexo__texto
+                    p
+                      span.text-bold Anexo. 
+                      | Ley 679 de 2001.<br> República de Colombia            
+              .col-lg-6
+                a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo6_1-1-6_Ley_985_de_2005.pdf')" target="_blank")
+                  .anexo__icono
+                    img(src="@/assets/template/icono-pdf.svg")
+                  .anexo__texto
+                    p
+                      span.text-bold Anexo. 
+                      | Ley 985 de 2005.<br> República de Colombia
+
         
             //--.row
               .col-lg-6

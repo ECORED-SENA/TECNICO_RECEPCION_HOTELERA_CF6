@@ -304,31 +304,38 @@ export default {
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Ley 1558 de 2012. Por la cual se modifica la Ley 300 de 1996 -Ley General de Turismo, la Ley 1101 de 2006 y se dictan otras disposiciones.Julio 10 de 2012. DO.Nº 48.487.',
+      tipo: 'Documento',
+      link:
+        'https://www.mincit.gov.co/ministerio/normograma-sig/procesos-de-apoyo/gestion-de-recursos-fisicos/leyes/ley-1558-de-2012-4.aspx',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Decreto 1074 de 2015. [Ministerio de Comercio, Industria y Turismo]. Por medio del cual se expide el Decreto Único Reglamentario del Sector Comercio, Industria y Turismo. Mayo 26 de 2015.',
+      tipo: 'Documento',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=76608',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'Decreto 1964 del 06 de diciembre de 2016. [Ministerio de Comercio, Industria y Turismo]. Por el cual se modifican los artículos 2.2.4.4.12.4. 2.2.4.7.2. del Decreto 1074 de 2015, Decreto Único Reglamentario del Sector Comercio, Industria y Turismo.Diciembre 6 de 2016.',
+      tipo: 'Documento',
+      link:
+        'https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%201964%20DEL%2006%20DE%20DICIEMBRE%20DE%202016.pdf',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      texto:
+        'Decreto 2119 de 2018. [Departamento Administrativo de la Función Pública]. "Por medio del cual se reglamenta la prestación del servicio de alojamiento turístico y se modifican la Sección 12 del Capítulo 4 del Título 4 de la Parte 2 del Libro 2 y el parágrafo del artículo 2.2.4.7.2.del Decreto 1074 de 2015, Decreto Único Reglamentario del Sector Comercio, Industria y Turismo.Noviembre 15 de 2018. ',
+      tipo: 'Documento',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=89402',
     },
     {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto:
+        'Ley 679 de 2001. Por medio de la cual se expide un estatuto para prevenir y contrarrestar la explotación, la pornografía y el turismo sexual con menores, en desarrollo del artículo 44 de la Constitución.Agosto 4 de 2001. DO.N° 44.509',
+      tipo: 'Documento',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=18309',
     },
   ],
 }
