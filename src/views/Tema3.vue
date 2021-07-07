@@ -48,15 +48,14 @@
               img.h85(src='@/assets/curso/t3-i4.svg', alt='icono decorativo')
               //-- figcaption Leyenda de la imagen
           .col-lg-8
-            p.mb-3  Las personas nacionales menores de edad, niños a partir de los 7 años y hasta los 18 años no cumplidos, deben presentar la tarjeta de identidad original.
-            p.mb-3  Actualmente existe un formato de tarjeta de identidad vigente: formato azul, con las mismas especificaciones técnicas y condiciones de seguridad que la cédula de ciudadanía amarilla con hologramas.
-            p.mb-3  El formato biométrico de tarjeta de identidad trae en su anverso un código de barras bidimensional con la información biométrica del titular, lo cual imposibilita la falsificación del documento. Incluye además fotografía a color, firma, huella dactilar, lugar y fecha de nacimiento y lugar y fecha de expedición, así como microtextos, impresión irisada y papel de seguridad que brinda mayores estándares de invulnerabilidad. (Registraduría Nacional del Estado Civil, 2021)
+            p.mb-3  Las personas nacionales menores infantes, entre los 0 y 2 años no cumplidos, y los niños entre los 2 y 7 años no cumplidos deben presentar copia autenticada del registro civil de nacimiento que indique el número de folio.
+            p.mb-3  El registro civil es un instrumento que de manera detallada y fidedigna deja constancia de todos los hechos relativos a la identidad, filiación y estado civil de las personas, desde que nacen hasta que mueren. En este registro se inscriben los nacimientos, reconocimientos de hijos, adopciones, matrimonios, separaciones, divorcios, defunciones y declaraciones de presunción de muerte, entre muchos otros acontecimientos que afectan la vida civil de las personas. (Registraduría Nacional del Estado Civil, 2021)
     .row.justify-content-center
       .col-lg-10
         .cajon.color-primario.p-4.mb-4
           p
             span.text-bold NOTA: 
-            | No se consideran válidos los documentos que no cumplan lo anteriormente enunciado.
+            | no se consideran válidos los documentos que no cumplan lo anteriormente enunciado.
 
     .separador
     #t_3_1.titulo-segundo
@@ -153,7 +152,7 @@ export default {
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Tarjeta de identidad',
+        titulo: 'Registro civil de nacimiento',
         imagen: require('@/assets/curso/t3-13.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
