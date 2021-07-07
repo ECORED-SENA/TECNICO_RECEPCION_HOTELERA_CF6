@@ -28,7 +28,7 @@
       .col-lg-5
         figure.mb-5
           img(src="@/assets/curso/t1-i1.jpg", alt="Pareja realizando check-in en la recepción del hotel")
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-10
         .tarjeta.color-primario--borde.mb-5.p-3.py-5
           .row.justify-content-center
@@ -115,6 +115,7 @@
                 li 
                   i.fas.fa-check-circle
                   | Número de acompañantes.
+    p.mb-5  Además, en la tarjeta también debe figurar el tipo de acomodación, la tarifa, el número total de noches, el medio de pago y el medio de reserva.
     br
     br
     #t_1_1.titulo-segundo.mb-4
@@ -236,7 +237,7 @@
           p.mb-3  Qué el Ministerio de Comercio, Industria y Turismo para dar cumplimiento a lo ordenado en el parágrafo transcrito, viene trabajando en la implementación del sistema tecnológico, a través de un software para el diligenciamiento de la Tarjeta de Registro Hotelero.
           p.mb-3  Que, conforme a lo anterior, el Ministerio de Comercio, Industria y Turismo ha identificado para el desarrollo e implementación del software del proyecto de la Tarjeta de Registro Hotelero, cuatro fases que permitirán cumplir con el 100 % de su implementación en las fechas fijadas en el Decreto, y de las cuales las dos etapas iniciales ya fueron desarrolladas.
           p.mb-3  Que de común acuerdo el Ministerio de Comercio, Industria y Turismo y el Departamento Administrativo Nacional de Estadística – DANE definieron los campos que debe contener la Tarjeta de Registro Hotelero, de acuerdo con las estadísticas requeridas por el sector turístico.
-          p.mb-3  Que los prestadores de servicios turísticos definidos en el Decreto 1074 de 2015 para el sector de alojamiento y hospedaje turístico deberán adoptar las condiciones técnicas y las medidas necesarias para la protección de datos personales conforme a la Ley 1581 de 2012, requeridos para la implementación del software de la Tarjeta de Registro Hotelero
+          p.mb-3  Que los prestadores de servicios turísticos definidos en el Decreto 1074 de 2015 para el sector de alojamiento y hospedaje turístico deberán adoptar las condiciones técnicas y las medidas necesarias para la protección de datos personales conforme a la Ley 1581 de 2012, requeridos para la implementación del software de la Tarjeta de Registro Hotelero.
 
 
 
