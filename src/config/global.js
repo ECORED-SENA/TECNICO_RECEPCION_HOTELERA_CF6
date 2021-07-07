@@ -118,50 +118,41 @@ export default {
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Astrid Lili Puerta',
+        nombre: 'Amparo Virginia Moreno antero',
         cargo: 'Experta temática',
-        centro: 'Centro Agropecuario de Buga',
-        regional: 'Regional valle',
+        centro: 'Centro de Servicios y Gestión Empresarial',
       },
       {
-        nombre: 'Javier Enrique Santana',
+        nombre: 'Harbey Enrique Castelblanco',
         cargo: 'Experto temático',
+        centro: 'Centro Nacional Colombo Alemán',
+      },
+      {
+        nombre: 'Leidy Carolina Arias Aguirre',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de diseño y metrología',
+      },
+      {
+        nombre: 'Leydy Jhuliana Jaramillo Mejía',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de Gestión Industrial',
-        regional: 'Regional Distrito Capital',
       },
       {
-        nombre: 'Michael Andrés Cortés Caro',
-        cargo: 'Experto temático',
-        centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
+        nombre: 'Alix Cecilia Chinchilla Rueda',
+        cargo: 'Evaluadora Instruccional',
+        centro: 'Centro de Gestión Industrial',
       },
       {
-        nombre: 'Mauricio Jiménez Fajardo',
-        cargo: 'Experto temático',
-        centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
+        nombre: 'Uriel Darío González Montoya',
+        cargo: 'Acompañamiento pedagógico',
+        centro: 'Centro Agropecuario La Granja',
+        regional: 'Regional Tolima',
       },
       {
-        nombre: 'Manuel Alejandro Garzón Cárdenas',
-        cargo: 'Experto temático',
-        centro: 'Deutsche Gesellschaft für',
-        regional: 'Internationale Zusammenarbeit (GIZ)',
-      },
-      {
-        nombre: 'Liliana Victoria Morales Gualdrón',
-        cargo: 'Diseñador instruccional',
-        centro: 'Centro para la Industria y la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Carlos Andrés Rodríguez',
-        cargo: 'Evaluador instruccional',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Julieth Paola Vital López',
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Revisora de estilo',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
       },
     ],
     desarrolloProducto: [
@@ -173,27 +164,33 @@ export default {
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Integración de recursos y pruebas',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
+      },
+      {
+        nombre: 'Jorge Armando Villamizar Moreno',
+        cargo: 'Diseño web',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
-        nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
-        cargo: 'Diseño web y Producción Audiovisual',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Edward Leonardo Pico Cabra',
+        nombre: 'Luis Fabian Robles Méndez',
         cargo: 'Desarrollo Front-End',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Rafael Augusto Mantilla López',
+        cargo: 'Validación de diseño y contenido',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Brayan Stiven Pinto Diaz',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de comercio y servicios',
         regional: 'Regional Tolima',
       },
@@ -201,105 +198,107 @@ export default {
   },
   referencias: [
     {
-      referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+      referencia: 'Colombia Ágil. (s. f.). Tarjeta de registro hotelero.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://www.colombiaagil.gov.co/tramites/intervenciones/tarjeta-de-registro-hotelero',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Decreto 1074 de 2015. [Ministerio de Comercio, Industria y Turismo]. Por medio del cual se expide el Decreto Único Reglamentario del Sector Comercio, Industria y Turismo. Mayo 26 de 2015.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76608',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Decreto 1964 de 2016. [Ministerio de comercio, industria y turismo]. Por el cual se modifican los artículos 2.2.4.4.12.4. 2.2.4.7.2. del Decreto 1074 de 2015, Decreto Único Reglamentario del Sector Comercio, Industria y Turismo. Diciembre 6 de 2016. ',
+      link: 'http://www.suin-juriscol.gov.co/viewDocument.asp?id=30030222',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Decreto 2119 de 2018. [Departamento Administrativo de la Función Pública]. Por medio del cual se reglamenta la prestación del servicio de alojamiento turístico y se modifican la Sección 12 del Capítulo 4 del Título 4 de la Parte 2 del Libro 2 y el parágrafo del artículo 2.2.4.7.2. del Decreto 1074 de 2015, Decreto Único Reglamentario del Sector Comercio, Industria y Turismo. Noviembre 15 de 2018.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=89402',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+        'Ley 679 de 2001. Por medio de la cual se expide un estatuto para prevenir y contrarrestar la explotación, la pornografía y el turismo sexual con menores, en desarrollo del artículo 44 de la Constitución. Agosto 4 de 2001. DO. Nº 44.509.',
+      link: 'https://www.icbf.gov.co/cargues/avance/docs/ley_0679_2001.htm',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Ley 1558 de 2012. Por la cual se modifica la Ley 300 de 1996 -Ley General de Turismo, la Ley 1101 de 2006 y se dictan otras disposiciones. Julio 10 de 2012. DO. Nº 48.487.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.redjurista.com/Documents/ley_1558_de_2012_congreso_de_la_republica.aspx#/',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Registraduría Nacional del Estado Civil. (s. f.). Cédula de Ciudadanía.',
+      link: 'https://www.registraduria.gov.co/-Cedula-de-Ciudadania,3689-.html',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Registraduría Nacional del Estado Civil. (s. f.). Tarjeta de Identidad.',
+      link: 'https://www.registraduria.gov.co/-Tarjeta-de-Identidad,3688-.html',
+    },
+    {
+      referencia:
+        'Registraduría Nacional del Estado Civil. (s. f.). Registro Civil.',
+      link: 'https://www.registraduria.gov.co/-Registro-Civil,3686-.html',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Check-in',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'En hotelería, expresión inglesa para registro de entrada de huéspedes, mediante el proceso de inscripción que se realiza en la recepción a la llegada del cliente, en el que se registran sus datos personales y se le asigna un número de habitación.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Check-out',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'En hotelería, expresión inglesa para registro de salida de huéspedes, mediante proceso de liquidación de gastos que se realiza en la recepción de un establecimiento de alojamiento cuando el cliente deja su habitación.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Colombia Co.',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'La Marca País es un esfuerzo conjunto entre el gobierno nacional y el sector privado para potenciar y comunicar las cualidades que tiene Colombia. También se encarga de promover el turismo nacional y de celebrar, con nuestros compatriotas y con el mundo entero, todos los hechos que enaltecen al país.',
     },
     {
-      termino: 'Áectores',
+      termino: 'Establecimiento de alojamiento',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Establecimiento abierto al público en general, dedicado de manera habitual a proporcionar hospedaje temporal mediante precio, con o sin otros servicios complementarios.',
     },
     {
-      termino: 'Moda',
+      termino: 'Extranjero',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Persona que no es nacional de un Estado determinado, el término abarcaría el apátrida, el asilado, el refugiado y el trabajador migrante.',
     },
     {
-      termino: 'Diseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+      termino: 'Huésped',
+      significado: 'Persona que se aloja en un establecimiento de alojamiento.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Migración',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Movimiento de población hacia el territorio de otro estado o dentro del mismo que abarca todo movimiento de personas sea cual fuere su tamaño, su composición o sus causas; incluye migración de refugiados, personas desplazadas, personas desarraigadas, migrantes económicos.',
     },
     {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+      termino: 'MINCIT',
+      significado: 'Ministerio de Comercio, Industria y Turismo de Colombia.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Prestador de servicios turísticos',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es toda persona natural o jurídica que habitualmente proporcione, intermedie o contrate directa o indirectamente con el turista la prestación de servicios turísticos y que se encuentre inscrito en el Registro Nacional de Turismo.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'PROCOLOMBIA',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es la entidad encargada de promover el turismo, la inversión extranjera en Colombia, las exportaciones no minero energéticas y la imagen del país.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Tarjeta de registro hotelero',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'En hotelería, documento donde se recogen los datos del cliente previo a su registro en el establecimiento de alojamiento.',
     },
   ],
   complementario: [
