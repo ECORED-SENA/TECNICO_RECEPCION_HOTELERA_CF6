@@ -110,7 +110,7 @@
               .h3.mb-1 Infografía del proceso de verificación migratoria
               p Consideraciones generales de tratamiento clínico del paciente con COVID-19 en el servicio de urgencias  
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/proceso_de_verificación_migratoria.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     .cajon.color-primario.p-4.mb-4
