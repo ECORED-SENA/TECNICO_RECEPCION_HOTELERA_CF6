@@ -8,7 +8,7 @@
       h1 Obligaciones y derechos de las partes
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2cnKTwQ85fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/oDrO1V7Qt5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 Al ser un documento de carácter contractual, el registro hotelero genera unas obligaciones y derechos que las partes deben cumplir.    
 
 
