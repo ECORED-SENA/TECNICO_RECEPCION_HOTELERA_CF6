@@ -2,150 +2,139 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+    
     .titulo-principal
-      .titulo-principal__numero
-        span 2
-      h1 Obligaciones y derechos de las partes
+      .h3 Producción Audiovisual
+    
+    #t_2_1.titulo-segundo
+      .h4 2.1 Infografía Animada
+    
+    p.mb-4 Propuesta infográfica en animación que refuerce un tema y matice conceptos dados de manera creativa y con intención pedagógica.
+
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/oDrO1V7Qt5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-5 Al ser un documento de carácter contractual, el registro hotelero genera unas obligaciones y derechos que las partes deben cumplir.    
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2cnKTwQ85fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-
-    #t_2_1.titulo-segundo
-      h2 2.1 Obligaciones y derechos del prestador de servicios
-    
-    p.mb-4 Todos los prestadores de servicios turísticos tienen obligaciones y derechos. Es necesario conocerlos y estudiarlos.
-
-    h3.titulo-tercero Prestador de servicios turísticos
-    p.mb-3  Es toda persona natural o jurídica que habitualmente proporcione, intermedie o contrate directa o indirectamente con el turista la prestación de servicios turísticos y que se encuentre inscrito en el Registro Nacional de Turismo.
-    p.mb-5  Conforme la normatividad legal vigente, son obligaciones de los prestadores de servicios turísticos:
-
-    .row.justify-content-center
-      .col-lg-10
-        .tarjeta.color-primario.p-5.mb-5
-          .row
-            .col-lg-2
-              figure.mb-5.my-5
-                img(src='@/assets/curso/t2-i1.svg', alt='icono decorativo').align-items-center
-            .col-lg-10
-              ul.lista-ul--color
-                li 
-                  i.fas.fa-check
-                  | Inscribirse en el Registro Nacional de Turismo.
-                li
-                  i.fas.fa-check
-                  | Actualizar anualmente los datos de su inscripción en el Registro Nacional de Turismo, entre el 1 de enero y el 31 de marzo de cada año.
-                li 
-                  i.fas.fa-check
-                  | El número que corresponda al Registro Nacional de Turismo deberá ser incluido en toda publicidad del prestador de servicios turísticos.
-                li 
-                  i.fas.fa-check
-                  | Enunciar los precios, calidad y cobertura del servicio ofrecido en las pautas publicitarias de estos.
-                li 
-                  i.fas.fa-check
-                  | Suministrar la información que le sea requerida por las autoridades de turismo.
-                li 
-                  i.fas.fa-check
-                  | Dar cumplimiento a las normas sobre conservación del medio ambiente, tanto en el desarrollo de proyectos turísticos como en la prestación de sus servicios.
-    .separador
-    br
-    br
     #t_2_2.titulo-segundo
-      h2 2.2 Obligaciones y derechos del huésped
+      .h4 2.2 Video Motion
 
-    p.mb-5 Los turistas, visitantes, viajeros y huéspedes son consumidores o usuarios de servicios turísticos y de alojamiento, como tales tienen derechos que se deben respetar y obligaciones que deben cumplir, a saber:
-    .row.justify-content-center
-      .col-lg-10
-        .tarjeta.tarjeta-light-blue.p-3.mb-3
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img.h80(src="@/assets/curso/t2-i2.svg", alt='Icono decorativo')
-            .col
-              p Recibir la información solicitada, de manera amable, respetuosa, correcta, veraz y objetiva.
-        .tarjeta.tarjeta-light-blue.p-3.mb-3
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img.h80(src="@/assets/curso/t2-i3.svg", alt='Icono decorativo')
-            .col
-              p Recibir los servicios contratados en los términos ofrecidos y previamente pactados.
-        .tarjeta.tarjeta-light-blue.p-3.mb-3
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img.h80(src="@/assets/curso/t2-i4.svg", alt='Icono decorativo')
-            .col
-              p Que la prestación de servicios se realice conforme a la solicitud del cliente, cumpliendo a cabalidad con los servicios ofrecidos y previamente pactados, con calidad y excelencia.
-            
-        .tarjeta.tarjeta-light-blue.p-3.mb-3
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img.h80(src="@/assets/curso/t2-i5.svg", alt='Icono decorativo')
-            .col
-              p Presentar el documento de identidad de forma física al momento de realizar el check-in y de diligenciar el formato registro hotelero.
-        .tarjeta.tarjeta-light-blue.p-3.mb-3
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img.h80(src="@/assets/curso/t2-i6.svg", alt='Icono decorativo')
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p Diligenciar y dar la información solicitada en el registro hotelero y por el personal del área de recepción.
-        .tarjeta.tarjeta-light-blue.p-3.mb-3 
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img.h80(src="@/assets/curso/t2-i7.svg", alt='Icono decorativo')
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p Que le sea entregada la documentación que demuestre la autenticidad del contrato de prestación de servicios, indicando términos y condiciones de los servicios ofrecidos.
-          
-        .tarjeta.tarjeta-light-blue.p-3.mb-3 
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img.h80(src="@/assets/curso/t2-i8.svg", alt='Icono decorativo')
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p Se debe garantizar a los turistas y huéspedes del establecimiento de alojamiento el derecho a la intimidad, la tranquilidad y la seguridad.
+    p.mb-4 Animación digital que crea la ilusión de movimiento mediante imágenes, fotografías, títulos, colores y diseños.
 
-        .tarjeta.tarjeta-light-blue.p-3.mb-3 
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img.h80(src="@/assets/curso/t2-i9.svg", alt='Icono decorativo')
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p Se debe garantizar a los turistas y huéspedes el derecho al libre acceso a las instalaciones del alojamiento y los servicios que ofrece.
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/E7-BaX6ox9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .tarjeta.tarjeta-light-blue.p-3.mb-3 
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img.h80(src="@/assets/curso/t2-i10.svg", alt='Icono decorativo')
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p Están obligados a pagar el precio de los servicios contratados, conforme a la tarifa previamente pactada, en el momento del check-out, donde les es presentada la factura para el pago correspondiente a los servicios recibidos.
+    #t_2_3.titulo-segundo
+      .h4 2.3 Motion + Presentador
 
-        .tarjeta.tarjeta-light-blue.p-3.mb-3 
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img.h80(src="@/assets/curso/t2-i11.svg", alt='Icono decorativo')
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p Derecho a presentar peticiones, quejas, reclamaciones, sugerencias, felicitaciones y denuncias (PQRSFD) y el derecho a obtener respuesta por parte del establecimiento hotelero, en los plazos establecidos por la ley.
+    p.mb-4 Es el uso locutor + acompañamiento de imágenes como fondo, el estilo tiene una mezcla entre imagen viva y recursos gráficos vectoriales  se usa cuando un material tiene información de datos numéricos o gráficos de valores. 
+
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Ky73iaXuuTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+    #t_2_4.titulo-segundo
+      .h4 2.4 Animación 2D
+
+    p.mb-4 Es el uso locutor + acompañamiento de imágenes como fondo, el estilo tiene una mezcla entre imagen viva y recursos gráficos vectoriales  se usa cuando un material tiene información de datos numéricos o gráficos de valores. 
+
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/3b8VctSm558" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+    #t_2_5.titulo-segundo
+      .h4 2.5 Video interactivo
+
+    p.mb-4 Visualización de videos con diferentes tipos de preguntas o anotaciones.
+
+    figure.mb-5
+      .video
+        iframe(src="https://vizia.co/videos/94d994c5fe93f1b08a60eb/embed" allowtransparency="true" frameborder="0" scrolling="no" width="640" height="390")
+
+    #t_2_6.titulo-segundo
+      .h4 2.6 Infografías
+
+    p.mb-4 Es una herramienta de comunicación de alta precisión, el cual tiene una narrativa gráfica con un texto corto acompañada de elementos visuales que tienen como intención de captar rápidamente la atención del lector. 
+
+    figure.mb-5
+      img(src='@/assets/curso/infografia-1.jpg', alt='Infografía Fundamentos del Servicio de Interpretación')
+      figcaption Fundamentos del Servicio de Interpretación
+
+    .tarjeta.tarjeta--morada.p-3.mb-5
+      .row.justify-content-around.align-items-center
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              .h5.mb-0 Fundamentos del Servicio de Interpretación
+              p Formato PDF
+            .col-sm-auto
+              a.boton.boton--b(:href="obtenerLink('/downloads/fundamentos_del_servicio_de_Interpretacion.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
     
-        .tarjeta.tarjeta-light-blue.p-3.mb-3 
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img.h80(src="@/assets/curso/t2-i12.svg", alt='Icono decorativo')
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p Cuando el establecimiento de alojamiento incurra en el incumplimiento total o parcial de los servicios ofrecidos, el huésped tiene derecho a recibir otro servicio similar o de la misma calidad, o el reembolso o compensación por el servicio incumplido
-    
-    
+    figure.mb-5
+      img(src='@/assets/curso/infografia-2.jpg', alt='Infografía Plan de Negocios')
+      figcaption Plan de Negocios
 
+    .tarjeta.tarjeta--morada.p-3.mb-5
+      .row.justify-content-around.align-items-center
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              .h5.mb-0 Plan de Negocios
+              p Formato PDF
+            .col-sm-auto
+              a.boton.boton--b(:href="obtenerLink('/downloads/plan_de_negocios.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
+    
+    figure.mb-5
+      img(src='@/assets/curso/infografia-3.jpg', alt='Infografía Cobertura poblacional')
+      figcaption Cobertura poblacional
+
+    .tarjeta.tarjeta--morada.p-3.mb-5
+      .row.justify-content-around.align-items-center
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              .h5.mb-0 Cobertura poblacional
+              p Formato PDF
+            .col-sm-auto
+              a.boton.boton--b(:href="obtenerLink('/downloads/cobertura_poblacional.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
+    
+    figure.mb-5
+      img(src='@/assets/curso/infografia-4.jpg', alt='Infografía Historia de las microfinanzas: Mohammad Yunus')
+      figcaption Historia de las microfinanzas: Mohammad Yunus
+
+    .tarjeta.tarjeta--morada.p-3.mb-5
+      .row.justify-content-around.align-items-center
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              .h5.mb-0 Historia de las microfinanzas: Mohammad Yunus
+              p Formato PDF
+            .col-sm-auto
+              a.boton.boton--b(:href="obtenerLink('/downloads/historia_de_las_microfinanzas_mohammad_yunus.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
+    
+    figure.mb-5
+      img(src='@/assets/curso/infografia-5.jpg', alt='Infografía Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica')
+      figcaption Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica
+
+    .tarjeta.tarjeta--morada.p-3.mb-5
+      .row.justify-content-around.align-items-center
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              .h5.mb-0 Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica
+              p Formato PDF
+            .col-sm-auto
+              a.boton.boton--b(:href="obtenerLink('/downloads/psicologia_de_la_moda.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
 
 </template>
 
@@ -155,10 +144,15 @@ export default {
   data: () => ({
     // variables de vue
   }),
+  mounted() {
+    this.$nextTick(() => {
+      this.$aosRefresh()
+    })
+  },
+  updated() {
+    this.$aosRefresh()
+  },
 }
 </script>
 
-<style lang="sass" scoped>
-.tarjeta.color-primario{background-color: #FFF4E4}
-.h80{height: 80px}
-</style>
+<style lang="sass" scoped></style>

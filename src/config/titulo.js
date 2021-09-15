@@ -1,1 +1,2 @@
-module.exports = 'Principios normativos'
+module.exports =
+  'Componente Formativo con un nombre extremadamente largo y extenso'
