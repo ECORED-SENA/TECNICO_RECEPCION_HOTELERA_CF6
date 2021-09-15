@@ -2,12 +2,12 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal
+    .titulo-principal(data-aos="flip-down")
       .titulo-principal__numero
         span 1
       h1 Registro hotelero
     .row.mb-4
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         p.mb-3  La tarjeta de registro hotelero es el documento que prueba la existencia del contrato de hospedaje, según lo establece el 
           span.text-bold artículo 81 
           | de la 
@@ -25,15 +25,15 @@
 
         p-mb-5  Dicha tarjeta incluye, además de los datos del establecimiento, información y datos generales de quien toma el servicio. La información solicitada llega a incluir un formato con diferentes campos. En efecto, el documento implica llenar espacios para:
       
-      .col-lg-5
+      .col-lg-5(data-aos="fade-right")
         figure.mb-5
           img(src="@/assets/curso/t1-i1.jpg", alt="Pareja realizando check-in en la recepción del hotel")
     .row.justify-content-center.mb-5
       .col-lg-10
-        .tarjeta.color-primario--borde.mb-5.p-3.py-5
+        .tarjeta.color-primario--borde.mb-5.p-3.py-5(data-aos="fade-up")
           .row.justify-content-center
             .col-lg-5
-              ul.lista-ul--color.zebra
+              ul.lista-ul--color.zebra(data-aos="slide-left")
                 li 
                   i.fas.fa-check-circle
                   | Número o nombre de la habitación.
@@ -75,7 +75,7 @@
                   | Profesión.
               
             .col-lg-5
-              ul.lista-ul--color.zebra
+              ul.lista-ul--color.zebra(data-aos="slide-right")
                 li 
                   i.fas.fa-check-circle
                   | Ocupación u oficio.
@@ -115,11 +115,11 @@
                 li 
                   i.fas.fa-check-circle
                   | Número de acompañantes.
-    p.mb-5  Además, en la tarjeta también debe figurar el tipo de acomodación, la tarifa, el número total de noches, el medio de pago y el medio de reserva.
+    p.mb-5(data-aos="slide-left")  Además, en la tarjeta también debe figurar el tipo de acomodación, la tarifa, el número total de noches, el medio de pago y el medio de reserva.
     br
     br
-    #t_1_1.titulo-segundo.mb-4
-      .h4 1.1 Jurisprudencia
+    #t_1_1.titulo-segundo
+      h2 1.1 Jurisprudencia
     p.mb-5  Como se mencionó anteriormente, la tarjeta de registro hotelero es la prueba del contrato de hospedaje y está soportada jurídicamente en las siguientes leyes, decretos y resoluciones, emanados del Ministerio de Industria, Comercio y Turismo.
     AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
       .row.justify-content-center(titulo="Ley 1558 de 2012")
@@ -360,7 +360,7 @@
           li 
             i.fas.fa-check
             | Los prestadores turísticos deben adoptar las medidas técnicas para la implementación de la plataforma.
-    p.mb-5  Con respecto a estos hechos, se anticipa que la plataforma que está desarrollando el Ministerio de Industria, Comercio y Turismo se podrá integrar a los diferentes sistemas PMS, para automatizar el proceso. A continuación, se puede observar un esquema gráfico al respecto:
+    p.mb-5(data-aos="fade-right")  Con respecto a estos hechos, se anticipa que la plataforma que está desarrollando el Ministerio de Industria, Comercio y Turismo se podrá integrar a los diferentes sistemas PMS, para automatizar el proceso. A continuación, se puede observar un esquema gráfico al respecto:
 
     .row.justify-content-center
       .col-lg-8
