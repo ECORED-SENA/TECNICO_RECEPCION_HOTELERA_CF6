@@ -340,25 +340,24 @@ export default {
   ],
 }
 
-  // creditosInicio: [
-  //   {
-  //     titulo: 'En alianza',
-  //     contenido: [
-  //       require('@/assets/template/logo-sena-naranja.svg'),
-  //       require('@/assets/template/mintic.jpg'),
-  //       require('@/assets/template/minsalud.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'En compañía',
-  //     contenido: [
-  //       require('@/assets/template/presidencia.jpg'),
-  //       require('@/assets/template/ecopetrol.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'Una iniciativa',
-  //     contenido: [require('@/assets/template/santander.jpg')],
-  //   },
-  // ],
-
+// creditosInicio: [
+//   {
+//     titulo: 'En alianza',
+//     contenido: [
+//       require('@/assets/template/logo-sena-naranja.svg'),
+//       require('@/assets/template/mintic.jpg'),
+//       require('@/assets/template/minsalud.jpg'),
+//     ],
+//   },
+//   {
+//     titulo: 'En compañía',
+//     contenido: [
+//       require('@/assets/template/presidencia.jpg'),
+//       require('@/assets/template/ecopetrol.jpg'),
+//     ],
+//   },
+//   {
+//     titulo: 'Una iniciativa',
+//     contenido: [require('@/assets/template/santander.jpg')],
+//   },
+// ],
