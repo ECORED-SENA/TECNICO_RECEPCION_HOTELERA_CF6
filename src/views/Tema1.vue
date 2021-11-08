@@ -15,7 +15,7 @@
           | (ver documento anexo). De acuerdo con la normatividad colombiana, los establecimientos de alojamiento y hospedaje, excluidos los establecimientos que prestan servicios de alojamiento por horas, deberán diligenciar, por cada huésped, la información solicitada en la Tarjeta de Registro Hotelero (Ministerio de Comercio, 2016).
         .row
           .col-lg-8
-              a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo-1_1_Ley_300_de_1996.pdf')" target="_blank")
+              a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo1_Ley_300_de_1996.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
@@ -191,7 +191,7 @@
               //-- AQUI VIENEN LOS ICONOS
           p.mb-5  
             span.text-bold.text-italic Artículo 2.2.4.4.12.4. <br>
-            | Tarjeta de Registro Hotelero. Establecimientos de alojamiento y hospedaje, excluidos los establecimientos que prestan servicio de alojamiento por horas, deberán diligenciar, por cada huésped, la información solicitada en la Tarjeta de Registro Hotelero, la cual deberá contener siguiente información:
+            | Tarjeta de Registro Hotelero. Establecimientos de alojamiento y hospedaje, excluidos los establecimientos que prestan servicio de alojamiento por horas, deberán diligenciar, por cada huésped, la información solicitada en la Tarjeta de Registro Hotelero, la cual deberá contener la siguiente información:
           .row
             .col-lg-6
               .tarjeta-avatar-b.mb-5.align-items-center
@@ -331,7 +331,7 @@
                       | Decreto 1074 de 2015. <br> República de Colombia
               .col-lg-4
           .col-12 
-            p.mb-3  Como se puede ver, la responsabilidad del establecimiento hotelero, y por ende del personal que en ellos labora, se hace extensiva a la prevención de esta tipología de crímenes trasnacionales que lastimosamente se complejiza aún más en los centros de alta afluencia de turistas nacionales y extranjeros.            p.mb-3  
+            p.mb-3  Como se puede ver, la responsabilidad del establecimiento hotelero, y por ende del personal que en ellos labora, se hace extensiva a la prevención de esta tipología de crímenes trasnacionales que lastimosamente se complejiza aún más en los centros de alta afluencia de turistas nacionales y extranjeros.
 
     h3.titulo-tercero Colofón
     p.mb-4  Hay varios hechos destacables dentro de la normatividad, como puede ver a continuación:

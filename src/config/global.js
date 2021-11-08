@@ -117,8 +117,8 @@ export default {
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor pedagógico',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Amparo Virginia Moreno antero',
@@ -148,54 +148,61 @@ export default {
       {
         nombre: 'Uriel Darío González Montoya',
         cargo: 'Acompañamiento pedagógico',
-        centro: 'Centro Agropecuario La Granja',
-        regional: 'Regional Tolima',
+        centro: 'Centro Agropecuario La Granja - Regional Tolima',
       },
       {
         nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Revisora de estilo',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     desarrolloProducto: [
       {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Jorge Armando Villamizar Moreno',
         cargo: 'Diseño web',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Luis Fabian Robles Méndez',
-        cargo: 'Desarrollo Front-End',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Rafael Augusto Mantilla López',
         cargo: 'Validación de diseño y contenido',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
+        nombre: 'Álvaro Andrés Angarita Ramírez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
@@ -286,7 +293,8 @@ export default {
     },
     {
       termino: 'MINCIT',
-      significado: 'Ministerio de Comercio, Industria y Turismo de Colombia.',
+      significado:
+        '&nbsp;Ministerio de Comercio, Industria y Turismo de Colombia.',
     },
     {
       termino: 'Prestador de servicios turísticos',
@@ -323,8 +331,7 @@ export default {
       texto:
         'Decreto 1964 del 06 de diciembre de 2016. [Ministerio de Comercio, Industria y Turismo]. Por el cual se modifican los artículos 2.2.4.4.12.4. 2.2.4.7.2. del Decreto 1074 de 2015, Decreto Único Reglamentario del Sector Comercio, Industria y Turismo.Diciembre 6 de 2016.',
       tipo: 'Documento',
-      link:
-        'https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%201964%20DEL%2006%20DE%20DICIEMBRE%20DE%202016.pdf',
+      descarga: '/downloads/decreto1964-06-diciembre-2016.pdf',
     },
     {
       texto:
